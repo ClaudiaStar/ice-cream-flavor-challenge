@@ -1,3 +1,16 @@
+Solution to coding challenge for The Good: 3 ways to manipulate HTML DOM to create list items from a JavaScript array.
+
+Solution 1 use a forEach loop to create a list for each ice cream flavor & append all to the IceCreamFlavors unordered list.
+
+Solution 2 - use a for loop to create a list item for each ice cream flavor & append all to the IceCreamFlavors unordered list.
+
+Solution 3 - use the map method on the IceCreamFlavors array to create a list item for each ice cream flavor & append all to the IceCreamFlavors unordered list using its CSS class as HTML DOM selector.
+
+
+--------------------------------
+
+
+
 # Ice Cream Flavor Challenge
 
 Front end A/B testing demands a strong working knowledge of DOM manipulation. There are often many different ways to achieve the same result.
